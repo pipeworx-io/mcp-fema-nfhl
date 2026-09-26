@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/fema-nfhl",
   "title": "Fema Nfhl",
   "description": "FEMA National Flood Hazard Layer (NFHL) MCP",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/fema-nfhl",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-fema-nfhl",
