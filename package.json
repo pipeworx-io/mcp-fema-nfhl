@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-fema-nfhl",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "FEMA National Flood Hazard Layer (NFHL) MCP",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "fema-nfhl",
     "gatewaySlug": "fema-nfhl",
-    "sourceHash": "v1-bdb4215bd961bf0e2d3a6cbde07ef5eae22ebb8884b73b85358660c22013947e",
-    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
+    "sourceHash": "v1-8073fb1044c4ad45215c0166e3b205b5ace9c12a2eb882a0f77f9ae468dc4746",
+    "sourceCommit": "d35e32c1ffe988e24d391dedb35666387fd2b3d6"
   }
 }
